@@ -102,6 +102,8 @@
 
 \newcommand{\CTtag}{\tikz[baseline={([yshift=-.8ex]current bounding box.center)}]  \node[circle, inner sep=2pt, minimum size=0.5em, color=black, fill=\CTcolor]{\small \bfseries CT};} %colored circle with tag
 
+\newcommand{\STtag}{\tikz[baseline={([yshift=-.8ex]current bounding box.center)}]  \node[circle, inner sep=2pt, minimum size=0.5em, color=black, fill=\ITcolor]{\small \bfseries ST};} %colored circle with tag
+
 \newcommand{\ITtag}{\tikz[baseline={([yshift=-.8ex]current bounding box.center)}]  \node[circle, inner sep=2pt, minimum size=0.5em, color=black, fill=\ITcolor]{\small \bfseries IT};} %colored circle with tag
 
 %
@@ -203,6 +205,7 @@
 \newcommand{\IScolor}{myblue!65} % invited speaker
 \newcommand{\CTcolor}{white} % contributed talk
 \newcommand{\KLcolor}{myorange!45} % keynote lecture
+\newcommand{\STcolor}{yellow!25} %
 \newcommand{\ITcolor}{yellow!25} %
 
 % row types
@@ -227,6 +230,8 @@
 	#1 &\cellcolor{\CTcolor}CT&{\bfseries#2}\newline #4&&#5 \\ \hline}
 \newcommand{\KL}[5]{%
 	#1 &\cellcolor{\KLcolor}KL&{\bfseries#2}\newline #4&&#5 \\ \hline}
+\newcommand{\ST}[5]{%
+  #1 &\cellcolor{\ITcolor}ST&{\bfseries#2}\newline #4&&#5 \\ \hline}
 \newcommand{\IT}[5]{%
 	#1 &\cellcolor{\ITcolor}IT&{\bfseries#2}\newline #4&&#5 \\ \hline}
 \newcommand{\tutorial}[5]{%
