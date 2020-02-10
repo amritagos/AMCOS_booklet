@@ -1,0 +1,10 @@
+TITLE
+Reactive Force Field Simulations on the Degradation of Quinoline
+AUTHOR
+Tamal Banerjee x
+AFFSHORT
+IIT Guwahati, India
+AFF
+Department of Chemical Engineering, IIT Guwhati, India
+ABS
+In the current study, quinoline is considered as a model Poly Aromatic Hydrocarbon where Reactive Force Field (ReaxFF) simulations is adopted to study its degradation and pyrolytic behaviour. To confirm the intermediate and final products, a range of ReaxFF MD simulations at different temperatures with NVT ensembles for a total duration of 700 ps were implemented. Five different temperatures ranging from 2500 K–4500 K are chosen so as to allow the chemical reactions to be observed at a computationally affordable time scale. We observed a qualitative experimental agreement with respect to initiation step of the quinoline hydrogenation and formation of major intermediate products such as Tetrahydroquinoline (THQ), Propylaniline (PA) and decahydroquinoline (DHQ). Most of the intermediate reactions are found to be intramolecular while intermolecular reactions dominate at higher temperatures. The main products include ammonia, ethylene, methane, ethane and acetylene. Finally, a kinetic analysis was made to obtain the rate constants and activation energies for quinoline hydrogenation.
