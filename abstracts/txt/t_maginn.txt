@@ -1,0 +1,11 @@
+TITLE
+Computational Design of New Materials for Separations and Energy Storage
+AUTHOR
+Edward J. Maginn +
+AFFSHORT
+University of Notre Dame
+AFF
+Department of Chemical and Biomolecular Engineering, University of Notre Dame
+ABS
+Chemical separation technologies such as distillation account for tremendous amount of the world’s energy consumption. As a consequence, the National Research Council has called for the development of alternatives to distillation to meet the Energy Intensity of Chemical Processing Grand Challenge. In the first part of this talk, I will focus on ionic liquid solvents designed to preferentially separate CO2 from air, methane and hydrogen. Permeabilities / separation factors are computed for ionic liquids confined in membranes and in nanoporous media. The solubility of chemically reacting ionic liquids is computed directly using a combination of quantum and classical modeling approaches. A new reactive Monte Carlo (RxMC) method is described that enables the direct calculation of the reactive absorption isotherm as a function of pressure.
+Energy storage technologies such as rechargeable batteries are key enablers of renewable energy sources such as wind and solar. The development of “beyond lithium ion” batteries relies upon the development of new electrolytes. In the second part of the talk, I will describe our work simulating “water-in-salt” electrolytes and deep eutectic solvent electrolytes, where we compute the structure and dynamics of these systems and compare with results from experimental collaborators. 
