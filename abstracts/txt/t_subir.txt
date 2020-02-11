@@ -1,0 +1,12 @@
+TITLE
+Kinetics of Clustering in an Assembly of Vicsek-Like Active Particles
+AUTHOR
+Subir K. Das x
+AFFSHORT
+Jawaharlal Nehru Centre for Advanced Scientific Research, Bangaluru
+AFF
+Theoretical Sciences Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Bangaluru, India
+ABS
+In connection with phase transitions in passive matter systems, scaling properties associated with various structural and dynamical quantities have received much attention over several decades. Analogous studies are recently being carried out in active matter systems that contain self-propelling particles and are inherently out-of-equilibrium. In this talk I will discuss kinetics of vapor-liquid phase separation in one such system that has Vicsek-like alignment activity.
+Results from our molecular dynamics simulations show that the growth of the average cluster size and the decay of 
+the order-parameter autocorrelation function, a probe for quantifying ageing dynamics in out-of-equilibrium systems, in this model follow power-law scaling. Furthermore, via structural analysis we show that the ageing exponent obey a bound. These results are qualitatively similar to those for passive matter systems and extend the domain of validity of scaling concepts of nonequilibrium statistical mechanics.
