@@ -236,6 +236,10 @@ def txt2tex(file_name, verbose=False) :
             authors[i] = author[:-2] 
             abs_type = 'IT'
             tag = r'\ITtag'
+        elif author[-1] == '-' : # if sponsored talk (assume one author)
+            authors[i] = author[:-2] 
+            abs_type = 'IT'
+            tag = r'\STtag'
                        
         if '{' in author: # if affiliations
             i_i = author.index('{')
