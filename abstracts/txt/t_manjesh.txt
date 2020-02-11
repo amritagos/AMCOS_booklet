@@ -1,0 +1,14 @@
+TITLE
+Rheology of Nonequilibrium Polymer Melts
+AUTHOR
+Manjesh K. Singh {1} 
+Kurt Kremer {2} x
+AFFSHORT
+IIT Kanpur, India
+AFF
+Department of Mechanical Engineering, IIT Kanpur, India
+AFF
+Polymer Theory, Max Planck Institute for Polymer Research, Mainz
+ABS
+Polymers have become very popular in everyday use because of ease in processing of polymeric materials. Polymers are processed to different complex shapes from the molten state. Polymer melts display rich viscoelastic behaviour in the typical length and time scales. The processing of polymer melts become difficult with increase in molecular weight (Mw). The long polymer chains in a melt have to move in a specific way due to the topological constraints "entanglements" imposed by neighbouring chains. This happens because of the fact that the in a polymeric systems each monomers are connected to their neighbouring monomers and can not crossover each other. Increase in number of entanglements with increase in Mw leads to increase in viscosity. 
+We have used complementary experimental and simulation approaches to study the development of entanglements in a fully disentangled melt of collapsed polymer chains and changes in viscosity, moduli and glass-transition temperature during the process.
