@@ -1,0 +1,12 @@
+TITLE
+Tuning the Adsorption Behavior of the Material at the Molecular Scale to get the Desired Macroscopic Behavior by Using Statistical Mechanics and Molecular Simulations
+AUTHOR
+Sonali Gore *
+Kaustubh Rane
+AFFSHORT
+IIT Gandhinagar
+AFF
+IIT Gandhinagar, India
+ABS
+Tuning the adsorption behavior of material to adsorb molecules or ions in the presence of some chemical species can be very useful in many applications. We need to alter the chemical nature of the material at the molecular level to get the desired macroscopic behavior. Hence it is a multiscale problem. In this poster, we describe our efforts to rationally designing the material by connecting the processes that take place at multiple scales. At the molecular scale, the knowledge of spatial distributions of different chemical species is valuable, whereas, at the macroscale, the desired behavior is expressed in terms of the quantity of adsorbate to adsorb in the presence of certain species in bulk. Our strategy is to extract the desired free-energy of adsorption from the quantities at the macroscale and then use statistical mechanics to predict the desired spatial-distributions of the chemical species at the molecular scale. We can then perform molecular simulations to compare the spatial distribution of the existing and model adsorbents with the desired values. The thermodynamic model helps us to link the desired behavior of adsorbent at the macroscopic scale with the desired spatial distribution obtained from molecular simulations. \par
+We show the application of the strategy to design an adsorbent to selectively adsorb and desorb calcium ions in the presence and absence of a surfactant, respectively. Hence, we are rationally designing a “smart” adsorbent, a novel alternative to water-softening agents. It should facilitate adsorption and desorption (for regeneration) by using the free-energy of the system. We have performed molecular simulations on well known and commonly used adsorbents, i.e., three different types of zeolite and model adsorbent with different sigma and densities. From the molecular-scale analysis, we can get the spatial distributions of calcium ions and surfactants and no. of calcium ions adsorbed. The results from molecular simulations for natural zeolite showed an opposite trend to the desired behavior, whereas for modeled adsorbent, it showed the desired trend, but the number of calcium ions adsorbed was less than the desired amount. 
