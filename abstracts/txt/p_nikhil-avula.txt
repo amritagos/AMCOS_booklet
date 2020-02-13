@@ -1,0 +1,19 @@
+TITLE
+Atomistic Modeling of Binary Ionic Liquid Mixtures
+AUTHOR
+Nikhil V. S. Avula *
+Sundaram Balasubramanian
+AFFSHORT
+JNCASR, Bangalore
+AFF
+Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore
+ABS
+Ionic liquids are complex fluids which show great promise in a variety of applications, from being used as electrolytes to biomass dissolution. Atomistic modeling of ionic liquids is challenging due to an interplay of different kinds of intermolecular interactions among the ions - Coulomb, dispersion and hydrogen bonding etc. Many attempts have been made to capture the essential static and dynamical properties of these liquids using empirical force field based molecular dynamics [1-3]. It is now accepted that the net charge of the ions has to be scaled down in order to reproduce experimental dynamical quantities [4]. This scaling down of charges is rationalized as a mean-field representation of polarization and charge transfer effects in the framework of non-polarizable force fields. 
+Generally, given a cation, the amount of charge transfer would depend on the basicity of the anion. Mondal et al. have devised a methodology to estimate the condensed phase ion charges and incorporated them into a force field framework [3]. In our recent work, we have extended this method to a mixture of ionic liquids with a common cation and two different anions [5]. We have observed that the cation charge varies linearly with composition, whereas the anion charges remain constant. This result agrees well with the X-ray photoelectron spectroscopic (XPS) studies on ionic liquid mixtures [6]. In this work, we use this linear mixing rule (of cation charge) to analyze static and dynamical properties of binary ionic liquid mixtures and compare them with experiments wherever possible. We also compare our linear mixing charge model with a popular uniform charge scaling model [1].
+REFS
+[1] J. N. C. Lopes , et al., J. Phys. Chem. B, 108 (2004), 2038-2047.
+[2] Y. Zhang, et al., J. Phys. Chem. B, 116 (2012), 10036-10048.
+[3] A. Mondal, et al., J. Phys. Chem. B, 118 (2014), 3409-3422.
+[4] C. Schroder, et al., Phys. Chem. Chem. Phys., 14 (2012), 3089-3102.
+[5] N. V. S. Avula, et al., J. Phys. Chem. Lett., 9 (2018), 3511-3516.
+[6] I. J. Villar-Garcia, et al., Chem. Sci., 5 (2014), 2573-2579. 
