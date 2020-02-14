@@ -1,0 +1,16 @@
+TITLE
+Uncovering the Molecular Mechanism of Solvent-Induced Polymorphism in Crystal Nucleation from Solution 
+AUTHOR
+Ravi Kumar Reddy *
+Sudeep Punnathanam
+AFFSHORT
+Indian Institute of Science, Bangalore
+AFF
+Department of Chemical Engineering, Indian Institute of Science, Bengaluru
+ABS
+Crystal nucleation from solution is of great scientific and technological interest in pharmaceutical, chemical and food processing industries. Understanding the role of solvent towards polymorph formation from solution is an important aspect of these studies. Due to the technical limitations of experimental studies, molecular simulations have become an attractive tool for uncovering the molecular mechanisms involved in crystal nucleation.  Over the years people have developed specialized molecular simulation techniques to study rare events and applied it to nucleation from melt. The key difference between the nucleation from melt and  nucleation from solution is slow diffusion of solute molecules from solution to the surface of the nucleus. As a result, novel strategies are necessary to handle the slow diffusion of solute molecules. \par
+We proposed a method that is based on the molecular theory of nucleation developed by Reiss and co-workers to crystal nucleation. We apply the developed technique to study two systems, nucleation of LJ solid from the vapor phase and crystal nucleation of Orcinol from its solution. Orcinol offers a simple  but representative system to study the phenomenon of solvent-induced crystal polymorphism in organic molecular solids. Though orcionl has many polymorphs, pseudo polymorphs, solvates and hydrates in different solvent conditons, we specifically study the crystal nucleation of anhydrous polymorphs of Orcinol from solutions. Our simulations reveal the role of solvents towards polymorph selection during crystal nucleation of orcinol and incase of LJ system, free energy profile shows a two step nucleation with only one saddle point.
+REFS
+[1] Jamshed Anwar and Dirk Zahn,  Angew. Chem. Int. Ed., 50 (2011), 1996.
+[2] Senger et al., J. Chem. Phys., 110 (1999), 6438-6450.
+[3] Arijit Mukherjee et al., Cryst. Growth Des., 11(2011),2637–2653. 
