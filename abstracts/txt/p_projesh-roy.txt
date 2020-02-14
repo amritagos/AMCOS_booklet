@@ -1,5 +1,5 @@
 TITLE
-Microscopic Structure and Carbon Dioxide Adsorption Properties of 6FDA/BPDA-DAM Polymeric Membrane
+Microscopic Structure and $\mathbf{CO_2}$ Adsorption Properties of 6FDA/BPDA-DAM Polymeric Membrane
 AUTHOR
 Projesh Kumar Roy {1} *
 Ganapathy Ayappa {2}
