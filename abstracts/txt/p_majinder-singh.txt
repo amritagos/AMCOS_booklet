@@ -1,0 +1,27 @@
+TITLE
+A Comparative Study of Tackifying Monomers to Develop Bio-Based Pressure–Sensitive Adhesive: A Computational Approach 
+AUTHOR
+Manjinder Singh *
+Sushanta Kumar Sethi
+Gaurav Manik
+AFFSHORT
+IIT Roorkee
+AFF
+Department of Polymer and Process Engineering, IIT Roorkee, India 
+ABS
+The demand of pressure sensitive adhesives (PSAs) has grown very rapidly in food packaging, 
+stationary and healthcare industries owing to its characteristic adhesion property. Several petro- 
+based tackifying monomers such as 2-ethylhexyl acrylate (2-EHA), iso-octyl acrylate and n-butyl 
+acrylate provide sufficient substrate adhesion but these are neither sustainable nor renewable. The 
+bio-sourced acrylated epoxidized linseed oil (AELO) and acrylated epoxidized methyl ester 
+(AEME) have the potential to act as tackifying monomer which are renewable, sustainable, cost 
+effective and ecofriendly in nature. In this investigation, molecular dynamic (MD) simulations 
+have been employed to estimate their surface energy and binding energy against aluminum 
+substrate. Further, mechanical response (shear and bulk modulus) was investigated to understand 
+their resistance ability against shear deformation. The fractional free volume was estimated by 
+varying applied stress and temperature, and further used to investigate their viscoelastic behavior 
+to understand the ease of processability and compatibility. Besides being renewable and 
+sustainable, both AELO and AEME showed improved surface energy, substrate binding energy, 
+shear and bulk modulus, in comparison to chemically sourced 2-EHA. Moreover, AEME showed 
+better performance properties than AELO, and thereby, proposed as a potential green tackifying 
+monomer for developing PSAs. 
