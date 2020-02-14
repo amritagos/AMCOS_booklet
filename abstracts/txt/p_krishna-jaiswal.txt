@@ -1,0 +1,24 @@
+TITLE
+A Functional Force Field Model for Water Based on Gaussian Charges 
+AUTHOR
+Jaishri Jain
+Kumari Shilpa
+Krishna Jaiswal *
+Vishal Agarwal
+AFFSHORT
+IIT Kanpur
+AFF
+Department of Chemical Engineering, IIT Kanpur, India
+ABS
+At a molecular level, even though water is a simple three atom molecule, its behavior in bulk is quite interesting and complex. [1] Over the past 60 years, a myriad of point-charge non-polarizable water models have been developed. [2, 3, 4, 5, 6, 7] Although these non-polarizable water models are simple and computationally efficient, none of them satisfactorily predicts all the properties of water. [8] For much higher accuracy polarizable water models are used which require much greater computational power. Therefore, there is a need to develop accurate, simple and computationally efficient empirical models which can be used for large- scale simulation of large systems like electrical double layer. \par
+In this work, we developed a novel 4-site, rigid, Gaussian charge water model, by a two-step fitting process. a) The Gaussian sizes and charges are fitted to get the positions and magnitude of critical points in the gas-phase electrostatic potential and the dipole moment of water. b) The parameters for non-bonded interactions are fitted to interaction potential of water-water in several key configurations in gas-phase obtained from accurate quantum chemical calculations. \par
+Further the model is tested for water clusters from (trimer to hexamer). We also developed a simulated annealing code to obtain guess configurations for different water clusters. The energies for these clusters were finally compared with CCSD (t)/CBS model chemistry. Qualitatively, our model predicts the stable configurations of trimer, tetramer and hexamer correctly, but fails in the case of pentamers. We are currently in the stage of re-parameterizing the model to eliminate discrepancies. 
+REFS
+[1] P.Ball, Water: Water – An enduring mystery, Nature, 2008, 452(7185):291-292. 
+[2] J. L. Abascal, et al., A general purpose model for the condensed phases of water: TIP4P/2005. The Journal of chemical physics, 2005, 123(23):234505/12.
+[3] A. L. Benavides, et al., A potential model for sodium chloride solutions based on the TIP4P/2005 water model, The Journal of Chemical Physics, 2017, 147(10) 104501/15. 
+[4] I Forces, et al., Interaction models for water in relation to protein hydration. D. Reidel Publishing Company., 1981, pages 331-338.
+[5] S. Izadi, et al., Building Water Models: A Different Approach. The Journal of Physical chemistry, 2014, pages 3863-3871.
+[6] W. L. Jorgensen, et al., Comparison of simple potential functions for simulating liquid water. The Journal of Chemical Physics, 1983, 79(2): 926-935.
+[7] M. W. Mahoney, et al., A five-site model for liquid water and the reproduction of the density anomaly by rigid, nonpolarizable potential functions., Journal of Chemical Physics, 2000, 112(20):8910-8922.
+[8] C. Vega, et al., Simulating water with rigid non-polarizable models: a general perspective, Physical Chemistry Chemical Physics, 2011. 
