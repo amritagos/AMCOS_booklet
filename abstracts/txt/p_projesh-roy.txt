@@ -21,7 +21,7 @@ Polymeric membranes are widely accepted as good alternatives for $CO_2$ adsorpti
 \caption{\textbf{Figure 2:} A slice of the equilibrated polymer matrix (XY plane) upon $CO_2$ (Oxygen – Pink, Carbon – Gray ) adsorption and swelling.}
 \end{center}
 REFS
-[1]  K. M. Steel, W. J. Koros, Carbon 43 (2005) 1843 – 1856.
+[1] K. M. Steel, W. J. Koros, Carbon 43 (2005) 1843 – 1856.
 [2] S. L. Mayo, B. D. Olafson, W. A. Goddard, The Journal of Physical Chemistry 94 (1990) 8897–8909. 
 [3] G. Zamanakos, 2002. PhD Thesis, California Institute of Technology, Pasadena, California.
 [4] J. S. Adams, A. K. Itta, C. Zhang, G. B. Wenz, O. Sanyal, W. J. Koros, Carbon 141 (2019) 238 – 246 

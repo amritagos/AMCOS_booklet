@@ -1,0 +1,19 @@
+TITLE
+Molecular Modeling of Phase Equilibrium of Gas Hydrates
+AUTHOR
+Shivanand Kumar Veesam *
+Sudeep Punnthanam
+AFFSHORT
+Indian Institute of Science, Bangalore
+AFF
+Department of Chemical Engineering, Indian Institute of Science, Bengaluru, India
+ABS
+Clathrate hydrates (or gas hydrates) are inclusion compounds in which the host crystal lattice is made up of water molecules connected to each other in a tetrahedral manner via hydrogen bonds. The water lattice contains cavities which are occupied by guest molecules such as methane, ethane, etc. Traditionally, thermodynamics of gas hydrates is described by van der Waals and Platteeuw (vdWP) theory [1] which models the clathrate hydrate as an adsorbent and the cavities as adsorption sites.  In this theory, the host lattice is assumed to be rigid. The guest-water potential parameters and empty hydrate properties are usually regressed from experimental phase equilibrium data. Chialvo et al. [2] suggested that the success of the vdWP theory is due to presence of large number of adjustable parameters used in the regression of equilibrium data and the theory acts as a data correlator. Punnathanam and co-workers [3,4,5] showed that the rigid host lattice approximation is a significant source of error to predict the phase equilibrium and developed a method to compute the contribution of movement of water molecules to the partition function, thereby successfully demonstrated the accuracy of the modified vdWP (vdWP-FL) theory using the phase equilibrium data computed using molecular simulations. Later we applied the vdWP-FL theory to model the experimental phase equilibrium data to recompute the guest-water potentials and empty hydrate reference properties are computed directly from simulations. In this implementation of the vdWP-FL theory only one parameter per guest molecule per cage is regressed from experimental data on gas hydrates. The vdWP-FL6 theory gives accurate predictions of the dissociation temperatures and pressures of gas hydrates and their mixtures. In addition, it also predicts the hydrate cage occupancy accurately.  
+Semi-clathrate hydrates are a class of gas hydrates which are also known as ionic clathrate hydrates. In the crystal structure of semi-clathrate hydrates, the water molecules together with anions/cations, by means of hydrogen bonding, form a water−ion polyhedral framework. Clathrate hydrates encaging gas molecules are stable only under high pressure and low temperature. On the other hand, semi-clathrate hydrates are stable even at atmospheric pressure. In this work, the phase equilirum of TBAB semi-clathrate hydrate in its solution is computed using molecular simulations. On the one hand, the aim of this work is to test the accuracy of the selected potential models in predicting the experimental phase equilibrium data. 
+REFS
+[1] Van der Waals J.H. et al., Adv. Chem. Phys., 2 (1959), 1-57.
+[2] Chialvo, A. A. et al., J. Phys. Chem. B, 106 (2002), 442–451.
+[3] Pimpalgaonkar, H. et al., J. Phys. Chem. B, 115 (2011), 10018–10026.
+[4] Ravipati, S. et al., J. Phys. Chem. C, 117 (2013), 18549–18555.
+[5] Ravipati, S. et al., J. Phys. Chem. C, 119 (2015), 12365-12377.
+[6] Veesam S. K. et al., J. Phys. Chem. C, 123 (2019), 26406-26414.
