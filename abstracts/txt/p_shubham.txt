@@ -1,0 +1,17 @@
+TITLE
+Insight into the Mechanism of Nanoparticle Induced Suppresion of Detergency: Experiments, Modelling and Simulations
+AUTHOR
+Shubham Tiwari *
+Jayant K. Singh
+AFFSHORT
+IIT Kanpur
+AFF
+Department of Chemical Engineering, IIT Kanpur, India
+ABS
+The combined effect of surfactant and nanoparticles on the surface and interfacial tension is of great importance in various industrial processes. The addition of nanoparticles to the ionic surfactant solution alters the distribution of surfactants at the interface due to electrostatic interaction between the surfactant and the nanoparticles, consequently modifies the surface/interfacial tension. However, such interactions are absent in the presence of non-ionic surfactants and result in different behavior than that in the presence of ionic surfactants [1,2]. \par
+This study aims to get insight into the combined effect of a non-ionic surfactant (Triton X-100 and tween 20) and $SiO_2$ nanoparticles at the air-water interface. The surfactant concentration was kept constant at CMC, and nanoparticle concentration was varied from $0$ to $1 \ wt \%$. The results show that nanoparticles increase the surface tension with an increase in its concentration. We present a comprehensive analysis and a thermodynamic model to explain such unusual behavior. The model presents a two-step adsorption-desorption mechanism which accurately predicts the equilibrium surface tension behavior [3]. In order to gain molecular insight into the surface tension behavior and to verify the developed theoretical model, we have also employed the many-body dissipative particle dynamics (MDPD) to simulate the system of triton X 100, $SiO_2$ nanoparticles and water [2,4]. The simulation results show the impact of preferential surfactants-nanoparticle interaction on the surface tension. The MDPD simulation results are in good agreement with the theory and experimental observations.
+REFS
+[1] N. R. Biswal and J. K. Singh, 2016, Effect of different surfactants on the interfacial behaviour of the n‑hexane-water system in the presence of silica nanoparticles, RSC Adv., 6, 113307.
+[2] P. Katiyar and J. K. Singh, 2017, A coarse-grain molecular dynamics study of oil–water interfaces in the presence of silica nanoparticles and non-ionic surfactants, J. Chem. Phys. 146, 204702.
+[3] A. R. Harikrishnan et al, 2018, Governing Influence of thermodynamic and chemical equilibria on the interfacial properties in complex fluids, J. Phys. Chem. B, 122, 4141-4148.
+[4] R. J. K. U. Ranatunga et al, 2011, Molecular dynamics study of nanoparticles and non-ionic surfactant at an oil–water interface, Soft Matter, 7, 6942.
