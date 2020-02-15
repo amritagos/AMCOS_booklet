@@ -1,0 +1,10 @@
+TITLE
+Understanding Complex Biomolecular Systems using Enhanced Sampling Techniques
+AUTHOR
+Debabrata Pramanik *
+AFFSHORT
+IIT Kanpur
+AFF
+Department of Chemical Engineering, IIT Kanpur, India
+ABS
+Understanding functioning and stabilizing/destabilizing forces of biomolecules such as protein-ligand and protein-DNA are highly desirable due to implication in basic biology as well as diseases. Experiments can be useful in measuring various thermodynamic quantities, but they cannot, at least directly, provide microscopic details and kinetics, pathways etc. Here, we complement experiments with all-atom molecular dynamics (MD) simulations. Unfortunately, MD is limited by a huge time scale problem. We attempt to solve it through developing sampling methods based on statistical mechanics and demonstrate progress on model systems and in ambitious systems such as protein-ligand interactions and transcription factor-DNA interactions. One of the specific issues we will address is the need to know beforehand an accurate reaction coordinate (RC), which is a challenge for any biased simulation. Recently, its been shown how to construct a 1-dimensional RC by a method called “spectral gap optimization of order parameters (SGOOP)”. Here we will show how to extend its scope by introducing a simple but powerful extension based on the notion of conditional probability factorization for systems with inherent complexity and where a 1-D RC is not enough to accurately capture the energy landscape.
